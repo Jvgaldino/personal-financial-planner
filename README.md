@@ -1,9 +1,9 @@
-# :moneybag: Planner Financeiro Pessoal
+# :moneybag: Planner Financeiro Pessoal :moneybag:
 
 Este APP ira ajudar as pessoas a ter um melhor entendimento e gerenciamento de suas vidas financeiras, melhorando o bem estar e reduzindo o estresse financeiro.
 ira ser permitido ao usuario adicionar e gerenciar sua renda e despesas, criar orçamentos, e ver o seu historico financeiro.
 
-## Funcionalidades
+## Funcionalidades :pushpin:
 
 - Adicionar Despesas
 - Criar orçamentos em diferentes categorias
@@ -12,7 +12,7 @@ ira ser permitido ao usuario adicionar e gerenciar sua renda e despesas, criar o
 - Criar objetivos financeiros
 - Notificar o usuario sobre os limites
 
-## Roadmap
+## Roadmap :pushpin:
 
 - Iniciar desenvolvimento
 
@@ -20,12 +20,12 @@ ira ser permitido ao usuario adicionar e gerenciar sua renda e despesas, criar o
 
 - Separar transações baseada nos bancos
 
-## Stack utilizada
+## :hammer_and_wrench: Stack utilizada
 
 **Front-end:** React, TailwindCSS
 
 **Back-end:** Node, Express, PostgreSQL
 
-## Autores
+## :man_technologist: Autores
 
 - [@RayHakku](https://github.com/RayHakku)
