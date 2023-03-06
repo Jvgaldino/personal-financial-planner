@@ -14,11 +14,11 @@ ira ser permitido ao usuario adicionar e gerenciar sua renda e despesas, criar o
 
 ## Roadmap :pushpin:
 
--1. Iniciar desenvolvimento
+1. Iniciar desenvolvimento
 
--2. Adicionar principais funcionalidades
+2. Adicionar principais funcionalidades
 
--3. Separar transações baseada nos bancos
+3. Separar transações baseada nos bancos
 
 ## :hammer_and_wrench: Stack utilizada
 
